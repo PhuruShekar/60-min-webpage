@@ -1,0 +1,17 @@
+.body {
+  color: #cc0033;
+}
+
+.row {
+  padding: 0px 550px;
+}
+
+#tf-home {
+  background: url(../img/mtnpix.png);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: #A18F94;
+}
+/*# sourceMappingURL=style.css.map */
